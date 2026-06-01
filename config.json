@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordersave",
+        "uuid": 36274709,
+        "checksum": "bu3sej"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
